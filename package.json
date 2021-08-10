@@ -1,6 +1,6 @@
 {
-    "name": "pip-services-datadog-nodex",
-    "version": "1.0.0",
+    "name": "pip-services3-datadog-nodex",
+    "version": "1.0.1",
     "author": "Conceptual Vision Consulting LLC",
     "description": "DataDog components for Pip.Services in Node.js / ES2017",
     "contributors": [
